@@ -1,2 +1,2 @@
-Alberta Travel Guides.
-Edmonton Travel Guides.
+<p>Alberta Travel Guides.</p>
+<p>Edmonton Travel Guides.</p>
